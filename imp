@@ -1,0 +1,93 @@
+UNit-1
+
+1. Express the complex number √3+i in the polar form
+
+2. Express the complex number 1-i√3 in the polar form
+
+3. Find the modulus and amplitude of the complex number 1+cosθ+isinθ
+
+4. Find the modulus and amplitude of the complex number 1-cosθ+isinθ
+
+5. Find the modulus and amplitude of the complex number (3-√2i)² / 1+2i
+
+6. Find the modulus and amplitude of the complex number 3+i / 2+i
+
+7. Find the modulus and amplitude of the complex number 5+3i / 4-2i
+
+8. Express : 1 / (2+i)² - 1 /(2-1)² in the form of a+ib
+
+9. Express : 3 / 1+i - 1 / 2-i + 1 / 1-i in the form of a+ib
+
+10. Express : (1+i)(1+3i) / (1+5i) in the form of a+ib
+
+11. Express : (5-3i)(2+i) / 4+2i in the form of a+ib
+
+12. Express : (1+i)(2+i) / 3+i in the form of a+ib
+
+13. Find the cube root of 1+i
+
+14. Find the cube root of 1-i
+
+15. Find the fourth root 1-i√3
+
+
+Unit-2
+
+1. Find the nth derivative of eax cos(bx+c)
+
+2. Find the nth derivative of eax sin(bx+c)
+
+3. Find the nth derivative of y=cos2xcos3x
+
+4. Find the nth derivative of y=log(ax+b)
+
+5. Find the nth derivative of y=sin(ax+b)
+
+6. Find the nth derivative of x ∕ (x-1)(2x+3)
+
+7. Find the nth derivative of y = x / x²-5x+6
+
+
+
+Unit-3
+
+1. Find the pedal equation to the curve r=a(1-cosθ)
+
+2. Find the pedal equation to the curve r=a(1+cosθ)
+
+3. Find the pedal equation to the curve r=a(1+sinθ)
+
+4. Find the pedal equation to the curve r(1-cosθ)=2a
+
+
+
+
+Unit-5
+
+1. obtain the reduction formula for ∫sinnx dx
+
+2. obtain the reduction formula for ∫cosnx dx
+
+3. obtain the reduction formula for ∫sinmx cosnx dx
+
+4. obtain the reduction formula for 0∫π∕2 sinnx dx
+
+5. obtain the reduction formula for 0∫π∕2 cosnx dx
+
+6. Evaluate 1∫2 0∫2-y  xy dxdy
+
+7. Evaluate 0∫2a 0∫√2a-x2  xy dxdy
+                             
+8. Evaluate 0∫1 0∫1 0∫1  (x+y+z)dxdydz
+
+9. Evaluate 0∫3 0∫2 0∫1  (x+y+z) dzdxdy
+
+10. Evaluate 0∫a 0∫x 0∫x+y  ex+y+z  dzdydx
+
+
+
+Unit-6
+
+1. Prove that β(m,n) = ΓmΓn ∕ Γ(m+n)
+
+2. Prove that Γ[½] = √π
